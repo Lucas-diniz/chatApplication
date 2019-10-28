@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "127649461729",
+    "firebase_url": "https://chatproject-bda60.firebaseio.com",
+    "project_id": "chatproject-bda60",
+    "storage_bucket": "chatproject-bda60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127649461729:android:b27cef4a83e31244",
+        "android_client_info": {
+          "package_name": "com.example.lucas.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127649461729-m4uvgenks05grodri7677m52esjljg19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MiPDNowwCfKIXvTQUks_lFY444tmTZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
